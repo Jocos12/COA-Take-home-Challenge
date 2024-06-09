@@ -71,6 +71,7 @@ The `readline-sync` package is required to read user input from the command line
 - Run the following command:
   ```sh
   npm install readline-sync
+ ### 3. node arrayMap.js
 ===================================================================================================================================================================================================================
 
 4.3 Coding Challenge 2: String Transformation
